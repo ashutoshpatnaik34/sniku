@@ -2,5 +2,10 @@ This is my first code.
 
 This is my second code.
 
+<<<<<<< HEAD
 this is my third code (ritishree)
+=======
+this is my third code (sniku)
+
+>>>>>>> bug1
 
